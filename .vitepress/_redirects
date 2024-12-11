@@ -1,0 +1,4 @@
+nano .vitepress/_redirects
+
+/*    /index.html   200
+
